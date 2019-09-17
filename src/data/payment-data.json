@@ -1,0 +1,146 @@
+[  
+    {  
+       "category":"Imports",
+       "items":[  
+          {  
+             "desc":"Imports: Advance Payments (not in terms of Letter of Undertaking)",
+             "code":"101",
+             "subCodeList":[  
+                {  
+                   "subCode":"01",
+                   "subCodeDesc":"Payment related to goods (excluding capital goods, gold, platinum, crude oil, refined petroleum products, diamonds, steel, coal, iron ore and goods imported via the South African Post Office)"
+                },
+                {  
+                   "subCode":"02",
+                   "subCodeDesc":"Payment related to goods classified as – Capital goods"
+                },
+                {  
+                   "subCode":"03",
+                   "subCodeDesc":"Payment related to goods classified as – Gold"
+                },
+                {  
+                   "subCode":"04",
+                   "subCodeDesc":"Payment related to goods classified as – Platinum"
+                },
+                {  
+                   "subCode":"05",
+                   "subCodeDesc":"Payment related to goods classified as – Crude oil"
+                },
+                {  
+                   "subCode":"06",
+                   "subCodeDesc":"Payment related to goods classified as – Refined petroleum products"
+                },
+                {  
+                   "subCode":"07",
+                   "subCodeDesc":"Payment related to goods classified as – Diamonds"
+                }
+             ]
+          },
+          {  
+             "desc":"Imports: Advance payments in terms of Letter of Undertaking        ",
+             "code":"102",
+             "subCodeList":[  
+                {  
+                   "subCode":"01",
+                   "subCodeDesc":"Payment related to goods (excluding capital goods, gold, platinum, crude oil, refined petroleum products, diamonds, steel, coal, iron ore and goods imported via the South African Post Office)"
+                },
+                {  
+                   "subCode":"02",
+                   "subCodeDesc":"Payment related to goods classified as – Capital goods"
+                },
+                {  
+                   "subCode":"03",
+                   "subCodeDesc":"Payment related to goods classified as – Gold"
+                },
+                {  
+                   "subCode":"04",
+                   "subCodeDesc":"Payment related to goods classified as – Platinum"
+                },
+                {  
+                   "subCode":"05",
+                   "subCodeDesc":"Payment related to goods classified as – Crude oil"
+                },
+                {  
+                   "subCode":"06",
+                   "subCodeDesc":"Payment related to goods classified as – Refined petroleum products"
+                },
+                {  
+                   "subCode":"07",
+                   "subCodeDesc":"Payment related to goods classified as – Diamonds"
+                }
+             ]
+          },
+          {  
+             "desc":" Consumables acquired in port",
+             "code":"105"
+          },
+          {  
+             "desc":"Repayment of trade finance for imports",
+             "code":"106"
+          },
+          {  
+             "desc":"Import payments where the Customs value of the shipment is less than R500",
+             "code":"107"
+          }
+       ]
+    },
+    {  
+       "category":"Intellectual property and other services",
+       "items":[  
+          {  
+             "desc":"Computer software and related items",
+             "code":"234"
+          },
+          {  
+             "desc":"Computer software and related items",
+             "code":"235"
+          },
+          {  
+             "desc":"Computer software and related items",
+             "code":"236"
+          },
+          {  
+             "desc":"Technical related services",
+             "code":"240",
+             "subCodeList":[  
+                {  
+                   "subCode":"01",
+                   "subCodeDesc":"Fees for processing done on materials (excluding the below)"
+                },
+                {  
+                   "subCode":"02",
+                   "subCodeDesc":"Gold"
+                },
+                {  
+                   "subCode":"03",
+                   "subCodeDesc":"Platinum"
+                },
+                {  
+                   "subCode":"04",
+                   "subCodeDesc":"Crude oil"
+                },
+                {  
+                   "subCode":"05",
+                   "subCodeDesc":"Refined petroleum products"
+                },
+                {  
+                   "subCode":"06",
+                   "subCodeDesc":"Diamonds"
+                },
+                {  
+                   "subCode":"07",
+                   "subCodeDesc":"Steel"
+                },
+                {  
+                   "subCode":"08",
+                   "subCodeDesc":"coal"
+                },
+                {  
+                   "subCode":"09",
+                   "subCodeDesc":"Iron ore"
+                }
+             ]
+          }
+       ]
+    }
+ ]
