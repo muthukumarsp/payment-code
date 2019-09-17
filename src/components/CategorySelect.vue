@@ -1,9 +1,10 @@
 <template>
 <div class="select-container">
   <select class="select-input" v-model="selected" @change="onChange">
-  <option v-for="(option,index) in paymentCodeData" v-bind:value="option" :key="index">
-    {{ option.category}}
-  </option>
+    <option disabled value="">Please select a category</option>
+    <option v-for="(option,index) in paymentCodeData" v-bind:value="option" :key="index">
+      {{ option.category}}
+    </option>
 </select>
 </div>
 </template>

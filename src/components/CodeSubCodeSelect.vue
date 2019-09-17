@@ -1,7 +1,9 @@
 <template>
     <div class="select-container">
-        <select class="select-input" v-model="selected" @change="onChange">
-          <option is="select-options" v-for="(group,index) in codeSubCodeData" :key="index" :codeItem="group"></option>
+        <select class="select-input" v-model="selected" @change="onChange"> 
+          <option disabled value="">Please select a value</option>
+          <option is="select-options" v-for="(group,index) in codeSubCodeData"
+           :key="index" :codeItem="group"></option>
         </select>
     </div>
 </template>

@@ -39,8 +39,6 @@ export default {
     onCodeSubCodeSelect: function(res) {
       this.selectedCode = res;
     },
- 
-
   }
 }
 </script>
