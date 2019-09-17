@@ -18,7 +18,7 @@ export default {
     selected: '',
   }),
   methods: {
-    onChange(event) {
+    onChange() {
       this.$emit('select-category', this.selected);
     }
   }

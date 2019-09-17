@@ -21,7 +21,7 @@ export default {
     selected: '' 
   }),
   methods: {
-    onChange(event) {
+    onChange() {
       this.$emit('select-code-subcode', this.selected);
     }
   },
